@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { JSXElementConstructor, ReactElement, ReactFragment, ReactPortal, useState } from "react";
 
 function Display(props: {
